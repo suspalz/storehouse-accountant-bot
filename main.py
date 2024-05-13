@@ -8,7 +8,7 @@ import markups
 from sheet_handler import *
 
 # авторизация, запуск
-bot = telebot.TeleBot('telegram-bot-tag')
+bot = telebot.TeleBot('6865566493:AAEkaaZZwEcmqXvdkpxG3gYzohECLmoDzR0')
 if client.spreadsheet_titles() == ['Бухгалтерия2']:
     print('Бот успешно подключился к таблице.')
 
@@ -620,6 +620,6 @@ try:
 
 
     bot.polling(none_stop=True)
-except ssl.SSLError:  # для обработки ситуаций, когда у Google Sheets API сильные задержки
-    print("ssl")
+except Exception as exc:  # для обработки ситуаций, когда у Google Sheets API сильные задержки
+    print(exc)
     bot.polling(none_stop=True)
