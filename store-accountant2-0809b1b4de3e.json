@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "store-accountant2",
+  "private_key_id": "0809b1b4de3ee0b2f77806fdc1131613cf308c37",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCo4YuiinBJwFRe\ndbRLObkKZaQg/g6Bk1dSwUwDhrVKtvRgqjv61LBXCUWx3DzlC0Deo1IU6YP8rqJt\nYI4DkeZ8MfJ+og25O9pDBhkWunsoYQBNgNrtO1OSXD2JlScuE0rk3CNA+hMEYh3+\nEJCrJmElK56GFMq1ljhLIaTbUGaKPNFl35ryTf2d1vtZ595HKyiB9UKGzTA58lpG\n03okhJ8g/OQV2A5Nul/wlKZjHd/vGXLCwt1kX1u6TSBEg3JucV/FbuZU4CRspcYJ\nt5bJ8cx114cNeCE3iO/Wlicl6vUhfDmPmG2JTH8fL6rDgM2pvNsWWWoG7ESWKUCe\nBDj+6/QRAgMBAAECggEAKJWnTmTxji+7tsWXkdpp1w9NDaawSsBjZF5Si6hkSfPE\nr7RJXMKfLBNs3czdD3gQW1CpaaAimWdIXnutNTtrRd5k9byxCppRHflJrzYaYb5J\n6dY1BnzS3SHwoe8nrsFxJqWmjTdruYpwxb0qXw8Gmn2sh3FYs6HJnniT2yartb16\nxvOUOy57aWenucnG95uf3ey2vkuwwVsDiBYu+nrXkQf7jniAnJAbYtxcmdOBZs9A\nQ/jXzeSh0qfI2bBdEAIXhx0/qYMIWNsMow8vAocVEmKE9aFCik9LGtCjEcUL/tqx\n6gJ7xN+j5q6RDKIOvJGFp0yYls7Y/nlwMTzN52a/5wKBgQDb5p/swxhbTlEt6uy0\n8+G7vVJ5QFjZOz3ndO5JEhxsjMOy9ii+PF/RiqRPfu/VK1B/rvUn4dV4oHEjjOFb\n2LshcXDJPegDGRRft6RcYTxB3852M8y4Y7GJXv7+OY6BdyW2g2pRBovchPQCUJg8\niTOWCkSc8Bi2KknVroySV6VDJwKBgQDEms1stxoGNmiM53WT8tChTUL6xRxHw4SW\nyhkGs7HvbwxxHlGH+25WuiQijIBeCAj5htnc5hku4gPqjakdPCfBjim2OA9qwgTU\nvmG0JL9l6IqsaVCkRN6iiKlwnX4T+hI7B1zB2Ha+9hiFKk5axzavaUvyP5wjz6TT\nYkXaY1qyBwKBgBg8X83hZrLRe+L6rGH5Kxzc7dUNQX2XqOf0nDqTc2yHSx5TQQRO\ndSUMCbX1QIuW/YVFDCH8IuHrlOydH01XIrC55vtXBlYpEnTGMag400JTX1bpuJtt\n6WhBfwsX3tvn/NETxMjvVsTUJmyG43Bwkq3rrco6MA8LtB2H4lhSrpUrAoGAUdr5\n6GebqDaC9RdxNrYD8wSN/IaQrbhTvcxK+yVZ0gx0K6yp2WnvmKBLZy8ESyIhSnLA\nxl3u4jwr0T5FyOxAyS99YmaY1KQPCtxxJWWfYric9AetEZey8gzgLwkDcyHM8VKx\nZevQFNW1g8wHb3g95m56tlORmL9dKr1hw/lVy4UCgYEAkp4Aicp0g6xM1TR8Gksd\njuKmXnkAojXbvGY9QJRFFGgcuCerW332W/CL85wWH+m9r3i1dBTZRTtzstvVYJKv\nvGwnlHDrQG2XzJPqAE1CYBGzxg1bO4jtzFYxSDyBh7QY3Q2C82IGFwuGnQHOgvQa\nwXQ2trs637VFIv3CJpMcOnY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "store-accountant2@store-accountant2.iam.gserviceaccount.com",
+  "client_id": "103451791069664445935",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/store-accountant2%40store-accountant2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
