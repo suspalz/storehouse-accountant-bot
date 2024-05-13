@@ -9,7 +9,7 @@ bot = telebot.TeleBot('6865566493:AAEkaaZZwEcmqXvdkpxG3gYzohECLmoDzR0')
 USER_STATE = {}
 DEFAULT, EXPECT_DATE = 0, 1
 
-client = pygsheets.authorize(service_account_file='store-accountant-283847678a27.json')
+client = pygsheets.authorize(service_account_file='service_key2.json')
 
 spreadsheet = client.open('Бухгалтерия')
 op_sheet = spreadsheet.worksheet('title', 'Операции')
