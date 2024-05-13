@@ -8,7 +8,7 @@ import markups
 from sheet_handler import *
 
 # авторизация, запуск
-bot = telebot.TeleBot('6865566493:AAEkaaZZwEcmqXvdkpxG3gYzohECLmoDzR0')
+bot = telebot.TeleBot('telegram-bot-token')
 if client.spreadsheet_titles() == ['Бухгалтерия2']:
     print('Бот успешно подключился к таблице.')
 
