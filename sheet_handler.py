@@ -4,8 +4,8 @@ import pygsheets
 
 import globals
 
-# client = pygsheets.authorize(service_account_file='store-accountant-283847678a27.json')
-client = pygsheets.authorize(service_account_file='store-accountant2-0809b1b4de3e.json')
+# client = pygsheets.authorize(service_account_file='service_key2.json')
+client = pygsheets.authorize(service_account_file='service_key1.json')
 spreadsheet = client.open('Бухгалтерия2')
 
 # все операции будут заводиться в дату, которая стоит на серверном компьютере
